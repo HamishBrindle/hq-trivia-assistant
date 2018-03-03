@@ -15,7 +15,7 @@ $ cp .env.dist .env
 ```
 After you've created the `.env` file, fill in your HQ user ID and bearer token. You can find your ID and token by sniffing the web traffic from your phone using a tool such as [Charles Proxy](https://www.charlesproxy.com/).
 
-Note: installation assumes that you have installed [Composer](https://getcomposer.org/doc/00-intro.md#globally) already.
+Note: Installation assumes that you have installed [Composer](https://getcomposer.org/doc/00-intro.md#globally) already.
 
 Note: If you are in a country other than than Canada, you may want to change your Google and Yahoo search engines to the search engine for your country.
 
