@@ -21,7 +21,7 @@ Note: If you are in a country other than than Canada, you may want to change you
 
 US: On lines 67 and 70, change ```https://ca.search.yahoo.com/search?ei=UTF-8&nojs=1&p=``` to ```https://search.yahoo.com/search?ei=UTF-8&nojs=1&p=``` and change ```https://www.google.ca/search?q=``` to ```https://www.google.com/search?q=```
 
-UK: On lines 67 and 70, change ```https://ca.search.yahoo.com/search?ei=UTF-8&nojs=1&p=``` to ```https://uk.search.yahoo.com/search?ei=UTF-8&nojs=1&p=``` and change ```www.google.ca/search?q= to ```https://www.google.co.uk/search?q=```
+UK: On lines 67 and 70, change ```https://ca.search.yahoo.com/search?ei=UTF-8&nojs=1&p=``` to ```https://uk.search.yahoo.com/search?ei=UTF-8&nojs=1&p=``` and change ```www.google.ca/search?q=``` to ```https://www.google.co.uk/search?q=```
 
 ## Usage
 
