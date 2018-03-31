@@ -64,10 +64,10 @@ function build_queries(string $question, array $answers, bool $includeAnswers = 
 
     return array_merge(
         array_map(function ($value) {
-            return 'https://ca.search.yahoo.com/search?ei=UTF-8&nojs=1&p=' . $value;
+            return 'https://search.yahoo.com/search?ei=UTF-8&nojs=1&p=' . $value;
         }, array_map('urlencode', $queries)),
         array_map(function ($value) {
-            return 'https://www.google.ca/search?q=' . $value;
+            return 'https://www.google.com/search?q=' . $value;
         }, array_map('urlencode', $queries))
     );
 }
